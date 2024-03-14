@@ -19,13 +19,12 @@ const Home = () => {
             I'm a Full Stack Developer.
           </h2>
           <p className='text-[#8892b0] py-3 max-w-[700px]'>
-            I am a full-stack developer with expertise in creating outstanding
-            digital experiences and occasionally working on design. At the
-            moment, my primary focus is on developing responsive full-stack web
-            applications.
+          I have a strong enthusiasm for creating high-quality software that
+                enhances the well-being of people in my community. My expertise lies 
+                in web development, catering to a diverse client.
           </p>
           <div>
-            <Link onClick={handleClick}to='work' smooth={true} duration={500}>
+            <Link onClick={handleClick} to='work' smooth={true} duration={500}>
               <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#0077b6] hover:border-[#0077b6]'>
                 View Work
                 <span className='group-hover:rotate-90 duration-300'> 

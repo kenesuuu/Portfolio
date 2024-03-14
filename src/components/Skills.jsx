@@ -1,10 +1,9 @@
 import React from 'react';
 import ProgressBar from "../chip/ProgressBar";
 import SkillBox from "../chip/SkillBox";
-import { IoLogoHtml5, IoLogoCss3 } from "react-icons/io";
+import { IoLogoHtml5, IoLogoCss3, IoLogoNodejs } from "react-icons/io";
 import { SiJavascript, SiTailwindcss, SiMongodb, SiExpress, SiFirebase } from "react-icons/si";
 import { FaReact } from "react-icons/fa";
-import { IoLogoNodejs } from "react-icons/io";
 
 const Skills = () => {
   return (

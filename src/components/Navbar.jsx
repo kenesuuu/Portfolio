@@ -83,19 +83,19 @@ const Navbar = () => {
     <ul>
       <li className='w-[160px] h-[60px] top[35%] left-0 flex justify-between items-center ml-[-95px] hover:ml-[-10px] duration-300 bg-blue-600'>
         <a className='flex justify-between items-center w-full text-gray-300'
-        href="/">
+        href="">
           Linkedin <FaLinkedin size={30}/>
         </a>
       </li>
       <li className='w-[160px] h-[60px] top[35%] left-0 flex justify-between items-center ml-[-95px] hover:ml-[-10px] duration-300 bg-[#1877F2]'>
         <a className='flex justify-between items-center w-full text-gray-300'
-        href="/">
+        href="https://web.facebook.com/kenesuuu29/">
           Facebook <FaFacebook size={30}/>
         </a>
       </li>
       <li className='w-[160px] h-[60px] top[35%] left-0 flex justify-between items-center ml-[-95px] hover:ml-[-10px] duration-300 bg-[#333333]'>
         <a className='flex justify-between items-center w-full text-gray-300'
-        href="/">
+        href="https://github.com/kenesuuu/">
           Github <FaGithub size={30}/>
         </a>
       </li>
